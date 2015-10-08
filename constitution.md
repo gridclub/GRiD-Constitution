@@ -41,7 +41,11 @@ Officers must be full-time students.
 
 ### Section C: Election 
 
-The officers shall be elected by electronic ballot at the last meeting of the spring semester by a majority of the vote cast for that office and special elections in the case of a graduating officer. 
+Nominations shall be solicited for one week leading up to the last meeting of the spring semester. Nominations shall take place in the form of email to the board. Any member may nominate a member (including him/herself) for any board position.
+
+Elections shall be open to all members via on-line ballot and shall be open for one week following the final meeting of the spring semester by a majority of the vote cast for that office and special elections in the case of a graduating officer. 
+
+In the case where no majority is achieved by any nominee, a runoff election between the top two vote receivers shall take place during the week following the regular election. If this results in a tie, the candidates may choose to share the position.
 
 ### Section D: Term 
 
@@ -50,6 +54,11 @@ The officers shall serve for one year and their term of office shall begin at th
 ### Section E: Vacancy 
 
 If a vacancy occurs in the office of Chairperson, the other Chairperson shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election.
+
+
+### Section F: Special Elections
+
+In the case of a vacancy in the board, special elections will take place on a date agreed upon by a simple majority of remaining board members. Members shall be notified at least 2 weeks in advance of the nominations for the special election. Voting shall be open via on-line ballot for the week following the nomination period, with candidates assuming their board positions immediately upon election. 
 
 ## ARTICLE IV:  DUTIES OF OFFICERS
 
@@ -152,10 +161,23 @@ The co-Chairpersons shall have the authority to appoint any special committees, 
 
 ## ARTICLE IX:  AMENDMENTS
 
-### Section A: Selection 
+### Section A: Proposing an Amendment
 
-These bylaws may be amended by a two-thirds (2/3) majority vote of quorum as stated in Article V Section C.
+Any member may propose an amendment to the constitution by obtaining signatures of
+support from at least 10% of the membership (total membership number shall be posted
+on the UMass GWIS website).
 
-### Section B: Notice 
+### Section B: Voting on an Amendment
 
-All members shall receive advance notice of the proposed amendment at least five days before the meeting.
+If 10% of signatures are obtained, constitutional amendments shall be brought to the
+attention of the entire GWIS membership, but shall be voted on by the Executive Board
+with majority deciding the outcome.
+
+### Section C: Overturning an Executive Board Decision
+
+Any member, after obtaining the signatures of at least 10% of the membership, may
+petition any decision or ruling of the Executive Board (pertaining to a constitutional
+amendment or otherwise) so that the decision is brought to the general body membership
+for a vote. For a decision to be overturned, 51% of the membership must participate in
+the vote for it to count, and majority will win.
+
