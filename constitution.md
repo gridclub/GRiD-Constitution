@@ -31,7 +31,16 @@ A member is defined as anyone who completes the membership form for an academic 
 
 ### Section C: Dues 
 
-There shall be no dues. 
+There shall be no dues.
+
+### Section E: Alumnus
+An alumnus is defined as anyone who completes the membership form and declares him/herself an alumnus. Alumni will have their own mailing list and will be invited to all networking and public events. Each alumnus may keep this status without completing subsequent membership forms until she/he request to be removed from the alumni list.
+
+#### Subsection i: Honorary Alumnus
+Alumni who wish to remain active within the group (i.e. attend all meetings and potentially sit on the Executive Board) may complete the membership form for an academic year, declare him/herself an alumnus, and request Honorary Alumnus status. The Executive Board will vote on whether to grant Honorary Alumnus status for each individual who requests it, with a majority vote required for acceptance. An Honorary Alumnus may serve on the Executive Board only on an interim basis, for a vacant position, with a vote of approval from the majority of the Executive Board.
+
+[[WE NEED TO DISCUSS HONORARY ALUMNUS VOTING RIGHTS, MAY THEY PARTICIPATE IN ELECTIONS? (NOT AS CANDIDATES, BUT AS VOTERS?) ON THE EXECUTIVE BOARD WOULD THEY HAVE VOTING POWERS?]]
+
 
 ## ARTICLE III:  OFFICERS
 
@@ -82,7 +91,7 @@ Two members from the club will split these responsibilities amongst themselves. 
 One member to two co-members from the club will hold this position with the option of having an standby/ substitute. It shall be the duty of the Secretary(ies) to:
 
 - Record the minutes of all meetings
-- Keep a file of the club’s records
+- Keep a file of the club's records
 - Maintain a current roster of membership
 - Issue notices of meetings and conduct the general correspondence of the club
 - Be in charge of overall organization: emails, filing, keeping track of member attendance
@@ -110,7 +119,7 @@ Special meetings may be called by the President with the approval of the Executi
 
 ### Section C: Quorum 
 
-A quorum shall consist of one-thirds (1/3) of the membership. Section D: Parliamentary Authority – Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+A quorum shall consist of one-thirds (1/3) of the membership. Section D: Parliamentary Authority – Robert's Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
 
 ## ARTICLE VI:  EXECUTIVE COMMITTEE
 
@@ -169,12 +178,12 @@ The co-Chairpersons shall have the authority to appoint any special committees, 
 
 Any member may propose an amendment to the constitution by obtaining signatures of
 support from at least 10% of the membership (total membership number shall be posted
-on the UMass GWIS website).
+on the UMass GRiD website).
 
 ### Section B: Voting on an Amendment
 
 If 10% of signatures are obtained, constitutional amendments shall be brought to the
-attention of the entire GWIS membership, but shall be voted on by the Executive Board
+attention of the entire GRiD membership, but shall be voted on by the Executive Board
 with majority deciding the outcome.
 
 ### Section C: Overturning an Executive Board Decision
