@@ -25,7 +25,11 @@ The purpose of this club shall be:
 
 Membership shall be open to graduate students at University of Massachusetts Amherst to include Masters, Doctoral and post-Doctoral students. 
 
-### Section B: Dues 
+### Section B: Member Identity
+
+A member is defined as anyone who completes the membership form for an academic year. Member identity will not be released without permission.
+
+### Section C: Dues 
 
 There shall be no dues. 
 
