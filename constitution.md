@@ -17,7 +17,8 @@ The purpose of this club shall be:
 1. Connecting graduate research students across all disciplines interested in data for the purpose of extending our knowledge base. 
 2. Explore data sets.
 3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
-4. Social gatherings in an informal setting to exchange ideas. 
+4. Provide resources to prepare members for careers in data science and related fields.
+5. Social gatherings in an informal setting to exchange ideas. 
 
 ## ARTICLE II:  MEMBERSHIP & DUES
 
