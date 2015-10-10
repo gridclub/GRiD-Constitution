@@ -82,6 +82,13 @@ If a vacancy occurs in the office of Chairperson, the other Chairperson shall as
 
 In the case of a vacancy in the board, special elections will take place on a date agreed upon by a simple majority of remaining board members. Members shall be notified at least 2 weeks in advance of the nominations for the special election. Voting shall be open via on-line ballot for the week following the nomination period, with candidates assuming their board positions immediately upon election. 
 
+### Section H: Shadow Period
+
+## ARTICLE IV: COMMITTEES
+
+
+
+
 ## ARTICLE IV:  DUTIES OF OFFICERS
 
 ### Section A: Co-Chairpersons 
