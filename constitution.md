@@ -17,8 +17,7 @@ The purpose of this club shall be:
 1. Connecting graduate research students across all disciplines interested in data for the purpose of extending our knowledge base. 
 2. Explore data sets.
 3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
-4. Provide resources to prepare members for careers in data science and related fields.
-5. Social gatherings in an informal setting to exchange ideas. 
+4. Social gatherings in an informal setting to exchange ideas. 
 
 ## ARTICLE II:  MEMBERSHIP & DUES
 
@@ -40,15 +39,44 @@ An alumnus is defined as anyone who completes the membership form and declares h
 #### Subsection i: Honorary Alumnus
 Alumni who wish to remain active within the group (i.e. attend all meetings and potentially sit on the Executive Board) must complete the membership form for an academic year, declare him/herself an alumnus, and request Honorary Alumnus status. The Executive Board will vote on whether to grant Honorary Alumnus status for each individual who requests it, with a majority vote required for acceptance.
 
-## ARTICLE III:  OFFICERS
+## ARTICLE III:  LEADERSHIP
 
-### Section A: Officers 
+### Section A: Executive Board Officers 
 
-The officers shall be two Chairpersons, Secretary(ies), and Treasurer(s). 
+Management of this club shall be vested in an Executive Board responsible to the entire membership to uphold these bylaws.
 
-### Section B: Eligibility 
+The Executive Board consists of the two Co-Chairs of the organization and the chief of each committee. The positions on the Executive Board are as follows:
 
-Officers must be full-time students. 
+- Co-Chair of Operations
+- Co-Chair of Programming
+- Chief Financial Officer
+- Chief Communications Director
+- Chief Technical Officer
+- Chief Outreach Officer
+- Chief Networking Officer
+
+No member of the Executive Board may hold multiple positions. In the event that a position is unable to be filled, the responsibilities for that position will be distributed across the members of the Executive Board by the Co-Chairs.
+
+### Section B: Eligibility
+
+The Executive Board Officers will be determined by [elections](#elections).
+
+### Section C: Duties of the Executive Board
+
+The Executive Board will meet as a body at least once per month. Every meeting must be attended by a quorum of the Executive Board Officers, including both Co-Chairs and the Chief Financial Officer (or a designated substitute). The Executive Committee will be responsible for making decisions for the organization by holding a vote, with the majority winning (except for impeachment votes). Executive Board Officers are expected to attend all programming events.
+
+The Co-Chair of Operations is responsible for scheduling, organizing, and running all Executive Board meetings, including taking attendance of present members and appointing an officer to take minutes.
+
+Section D: Leave of Absence for Executive Board Officers
+
+An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their
+absence. The officer may appoint an interim replacement or instruct the other members of the Executive Board to do so, if needed. Any extenuating circumstances will be dealt
+with at the discretion of the executive board.
+
+Section E: Impeachment of an Executive Board Member
+
+Impeachment of a board member will require a unanimous vote by the other Executive Board Officers. Examples of reasons for impeachment: gross negligence of duties, misuse of
+GRiD funds.
 
 ### Section C: Election 
 
@@ -104,34 +132,6 @@ One member to two co-members from the club will hold this position with the opti
 - Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
 - Must attend all meetings (or have a standby/substitute)
 - Perform such other duties as ordinarily pertain to this office
-
-## ARTICLE V:  MEETINGS
-
-### Section A: Meetings 
-
-Regular meetings shall be held monthly during the regular school year. In addition meetings to pick dataset, listen to invited panelists, and social events. 
-
-### Section B: Special Meeting 
-
-Special meetings may be called by the President with the approval of the Executive Committee. 
-
-### Section C: Quorum 
-
-A quorum shall consist of one-thirds (1/3) of the membership. Section D: Parliamentary Authority – Robert's Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
-
-## ARTICLE VI:  EXECUTIVE COMMITTEE
-
-### Section A: Responsibility 
-
-Management of this club shall be vested in an Executive Committee responsible to the entire membership to uphold these bylaws.
-
-### Section B: Membership 
-
-This committee shall consist of the officers as listed in Article III and the faculty advisors.
-
-### Section C: Meetings 
-
-This committee shall meet at least once between regular meetings of the club to organize and plan future activities.
 
 ## ARTICLE VII:  ADVISOR
 
