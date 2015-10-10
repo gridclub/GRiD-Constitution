@@ -86,6 +86,71 @@ In the case of a vacancy in the board, special elections will take place on a da
 
 ## ARTICLE IV: COMMITTEES
 
+### Section B: Chief Financial Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section C: Chief Operating Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute. It shall be the duty of the Chief Operating Officer(s) to:
+
+- Record the minutes of all meetings
+- Keep a file of the club’s records
+- Maintain a current roster of membership
+- Issue notices of meetings and conduct the general correspondence of the club
+- Be in charge of overall organization: emails, filing, keeping track of member attendance
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section D: Chief Communications Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section E: Chief Events Coordinator
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section F: Chief Technical Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section G: Chief Outreach Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
+
+### Section H: Chief Networking Officer 
+
+One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Chief Financial Officer(s) to:
+
+- Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
+- Must attend all meetings (or have a standby/substitute)
+- Perform such other duties as ordinarily pertain to this office
 
 
 
