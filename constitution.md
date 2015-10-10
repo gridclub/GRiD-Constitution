@@ -48,13 +48,13 @@ Alumni who wish to remain active within the group (i.e. attend all meetings and 
 
 The Executive Board consists of the two Co-Chairs of the organization and the chief of each committee. The positions on the Executive Board are as follows:
 
-- Co-Chair of Operations (1)
-- Co-Chair of Programming (1)
-- Chief Financial Officer (1)
-- Chief Communications Director (1)
-- Chief Technical Officer (1)
-- Chief Outreach Officer (1)
-- Chief Networking Officer (1)
+- Co-Chair of Operations
+- Co-Chair of Programming
+- Chief Financial Officer
+- Chief Communications Director
+- Chief Technical Officer
+- Chief Outreach Officer
+- Chief Networking Officer
 
 No member of the Executive Board may hold multiple positions. In the event that a position is unable to be filled, the responsibilities for that position will be distributed across the members of the Executive Board by the Co-Chairs.
 
