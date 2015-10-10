@@ -101,7 +101,9 @@ Special meetings may be called by the President with the approval of the Executi
 
 ### Section C: Quorum 
 
-A quorum shall consist of one-thirds (1/3) of the membership. Section D: Parliamentary Authority – Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+A quorum shall consist of one-thirds (1/3) of the membership. 
+
+### Section D: Parliamentary Authority – Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
 
 ## ARTICLE VI:  EXECUTIVE COMMITTEE
 
