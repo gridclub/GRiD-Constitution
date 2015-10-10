@@ -17,8 +17,7 @@ The purpose of this club shall be:
 1. Connecting graduate research students across all disciplines interested in data for the purpose of extending our knowledge base. 
 2. Explore data sets.
 3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
-4. Provide resources to prepare members for careers in data science and related fields.
-5. Social gatherings in an informal setting to exchange ideas. 
+4. Social gatherings in an informal setting to exchange ideas. 
 
 ## ARTICLE II:  MEMBERSHIP & DUES
 
@@ -43,11 +42,20 @@ Alumni who wish to remain active within the group (i.e. attend all meetings and 
 [[WE NEED TO DISCUSS HONORARY ALUMNUS VOTING RIGHTS, MAY THEY PARTICIPATE IN ELECTIONS? (NOT AS CANDIDATES, BUT AS VOTERS?) ON THE EXECUTIVE BOARD WOULD THEY HAVE VOTING POWERS?]]
 
 
-## ARTICLE III:  OFFICERS
+## ARTICLE III:  LEADERSHIP
 
-### Section A: Officers 
+### Section A: Executive Board Officers 
 
-The officers shall be two Chairpersons, Secretary(ies), and Treasurer(s). 
+The positions on the Executive Board are as follows:
+
+- Co-Chair (2)
+- Chief Financial Officer (1-2)
+- Chief Operations Officer (1-2)
+- Chief Communications Director (1-2)
+- Chief Events Coordinator (1-2)
+- Chief Technical Officer (1-2)
+- Chief Outreach Officer (1-2)
+- Chief Networking Officer (1-2)
 
 ### Section B: Eligibility 
 
