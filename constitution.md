@@ -46,6 +46,8 @@ Alumni who wish to remain active within the group (i.e. attend all meetings and 
 
 ### Section A: Executive Board Officers 
 
+Management of this club shall be vested in an Executive Board responsible to the entire membership to uphold these bylaws.
+
 The Executive Board consists of the two Co-Chairs of the organization and the chief of each committee. The positions on the Executive Board are as follows:
 
 - Co-Chair of Operations
@@ -133,34 +135,6 @@ One member to two co-members from the club will hold this position with the opti
 - Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
 - Must attend all meetings (or have a standby/substitute)
 - Perform such other duties as ordinarily pertain to this office
-
-## ARTICLE V:  MEETINGS
-
-### Section A: Meetings 
-
-Regular meetings shall be held monthly during the regular school year. In addition meetings to pick dataset, listen to invited panelists, and social events. 
-
-### Section B: Special Meeting 
-
-Special meetings may be called by the President with the approval of the Executive Committee. 
-
-### Section C: Quorum 
-
-A quorum shall consist of one-thirds (1/3) of the membership. Section D: Parliamentary Authority – Robert's Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
-
-## ARTICLE VI:  EXECUTIVE COMMITTEE
-
-### Section A: Responsibility 
-
-Management of this club shall be vested in an Executive Committee responsible to the entire membership to uphold these bylaws.
-
-### Section B: Membership 
-
-This committee shall consist of the officers as listed in Article III and the faculty advisors.
-
-### Section C: Meetings 
-
-This committee shall meet at least once between regular meetings of the club to organize and plan future activities.
 
 ## ARTICLE VII:  ADVISOR
 
