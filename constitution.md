@@ -46,7 +46,7 @@ Alumni who wish to remain active within the group (i.e. attend all meetings and 
 
 ### Section A: Executive Board Officers 
 
-The positions on the Executive Board are as follows:
+The Executive Board consists of the two Co-Chairs of the organization and the chief of each committee. The positions on the Executive Board are as follows:
 
 - Co-Chair (2)
 - Chief Financial Officer (1-2)
@@ -57,7 +57,11 @@ The positions on the Executive Board are as follows:
 - Chief Outreach Officer (1-2)
 - Chief Networking Officer (1-2)
 
-### Section B: Eligibility 
+No member of the Executive Board may hold multiple positions. In the event that 
+
+### Section B: Executive Board Duties
+
+
 
 Officers must be full-time students. 
 
