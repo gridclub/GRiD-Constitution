@@ -38,10 +38,7 @@ There shall be no dues.
 An alumnus is defined as anyone who completes the membership form and declares him/herself an alumnus. Alumni will have their own mailing list and will be invited to all networking and public events. Each alumnus may keep this status without completing subsequent membership forms until she/he request to be removed from the alumni list.
 
 #### Subsection i: Honorary Alumnus
-Alumni who wish to remain active within the group (i.e. attend all meetings and potentially sit on the Executive Board) may complete the membership form for an academic year, declare him/herself an alumnus, and request Honorary Alumnus status. The Executive Board will vote on whether to grant Honorary Alumnus status for each individual who requests it, with a majority vote required for acceptance. An Honorary Alumnus may serve on the Executive Board only on an interim basis, for a vacant position, with a vote of approval from the majority of the Executive Board.
-
-[[WE NEED TO DISCUSS HONORARY ALUMNUS VOTING RIGHTS, MAY THEY PARTICIPATE IN ELECTIONS? (NOT AS CANDIDATES, BUT AS VOTERS?) ON THE EXECUTIVE BOARD WOULD THEY HAVE VOTING POWERS?]]
-
+Alumni who wish to remain active within the group (i.e. attend all meetings and potentially sit on the Executive Board) must complete the membership form for an academic year, declare him/herself an alumnus, and request Honorary Alumnus status. The Executive Board will vote on whether to grant Honorary Alumnus status for each individual who requests it, with a majority vote required for acceptance.
 
 ## ARTICLE III:  OFFICERS
 
