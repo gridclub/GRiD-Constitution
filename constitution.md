@@ -78,27 +78,6 @@ Section E: Impeachment of an Executive Board Member
 Impeachment of a board member will require a unanimous vote by the other Executive Board Officers. Examples of reasons for impeachment: gross negligence of duties, misuse of
 GRiD funds.
 
-### Section C: Election 
-
-Nominations shall be solicited for one week leading up to the last meeting of the spring semester. Nominations shall take place in the form of email to the board. Any member may nominate a member (including him/herself) for any board position.
-
-Elections shall be open to all members via on-line ballot and shall be open for one week following the final meeting of the spring semester by a majority of the vote cast for that office and special elections in the case of a graduating officer. 
-
-In the case where no majority is achieved by any nominee, a runoff election between the top two vote receivers shall take place during the week following the regular election. If this results in a tie, the candidates may choose to share the position.
-
-### Section D: Term 
-
-The officers shall serve for one year and their term of office shall begin at the commencement of the fall semester unless by special election. 
-
-### Section E: Vacancy 
-
-If a vacancy occurs in the office of Chairperson, the other Chairperson shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election.
-
-
-### Section F: Special Elections
-
-In the case of a vacancy in the board, special elections will take place on a date agreed upon by a simple majority of remaining board members. Members shall be notified at least 2 weeks in advance of the nominations for the special election. Voting shall be open via on-line ballot for the week following the nomination period, with candidates assuming their board positions immediately upon election. 
-
 ## ARTICLE IV:  DUTIES OF OFFICERS
 
 ### Section A: Co-Chairpersons 
@@ -132,6 +111,34 @@ One member to two co-members from the club will hold this position with the opti
 - Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
 - Must attend all meetings (or have a standby/substitute)
 - Perform such other duties as ordinarily pertain to this office
+
+## ARTICLE V: ELECTIONS AND VOTING
+
+### Section A: Election 
+
+The Nomination Period for organization elections will commence at the final meeting of the fall semester and conclude at the first meeting of the spring semester. Nominations may be solicited and accepted at either meeting or in the form of email to the board during the winter break. Any member may nominate a member (including him/herself) for any Executive Board Officer position.
+
+At the first meeting of the spring semester, each candidate will have 5 minutes to address the general body. At the end of this meeting, the Voting Period will commence. The Voting Period lasts for exactly one week, during which members may cast one vote for each Executive Board Officer position online.
+
+The candidate winning majority of the vote at each position at the end of the Voting Period will become an Executive Board Officer. In the case of a tie, the two highest candidates will participate in a run-off. If the candidates are tied a second time, they may choose to share the position.
+
+Newly elected Executive Board Officers will shadow current members of the board throughout the spring semester.
+
+### Section D: Term 
+
+The officers shall serve for one year and their term of office shall begin at the commencement of the summer semester unless by Special Election. 
+
+### Section E: Vacancy 
+
+If a vacancy occurs for any Executive Board Officer position in the summer, fall, or winter semesters, the position shall be filled by Special Election.
+
+If a vacancy occurs for any Executive Board Officer position in the spring semester, the position shall be filled by the officer elect. If no officer was elected for that position, the position may be filled by Special Election.
+
+### Section F: Special Elections
+
+In the case of a vacancy in the board, a Special Election will take place on a date agreed upon by a simple majority of the remaining Executive Board Officers. Members shall be notified at least two weeks in advance of the nominations for the Special Election. Voting shall be open via on-line ballot for the week following the Nomination Period, with candidates assuming their Executive Board positions immediately upon election. 
+
+In addition to graduate student members, Honorary Alums will also be eligible to run for Executive Board Officer positions in a Special Election. Honorary Alums will only be eligible for positions which have no graduate student member nominees.
 
 ## ARTICLE VII:  ADVISOR
 
