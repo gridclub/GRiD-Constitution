@@ -99,76 +99,69 @@ If a vacancy occurs in the office of Chairperson, the other Chairperson shall as
 
 In the case of a vacancy in the board, special elections will take place on a date agreed upon by a simple majority of remaining board members. Members shall be notified at least 2 weeks in advance of the nominations for the special election. Voting shall be open via on-line ballot for the week following the nomination period, with candidates assuming their board positions immediately upon election. 
 
-## ARTICLE IV:  DUTIES OF OFFICERS
+### Section H: Shadow Period
 
-### Section A: Co-Chairpersons 
+## ARTICLE IV: COMMITTEES
 
-Two members from the club will split these responsibilities amongst themselves.  It shall be the duty of the Co-Chairpersons to:
+### Section A: Programming committee
+The programming committee shall be headed by the Co-Chair of Programming and shall be responsible for the following:
 
-- Preside at meetings
-- Vote only in case of a tie
-- Represent the club
-- Appoint committee chairpersons subject to the approval of the Executive Committee
-- Serve as an ex-officio member of all committees except the nominating committee
-- Perform such other duties as ordinarily pertain to this office
+- Maintaining a calendar of GRiD events
+- Inviting and corresponding with invited speakers
+- Securing venues and dealing with logistics of GRiD events
+- Maintaining a list of attendance for all GRiD events, ***sharing this with the Co-Chair of operations***
+- Coordinating with other committees to plan and execute events in their specific domain.
+- Soliciting feedback from attendees of GRiD events and summarizing this for future programming decisions.
 
-### Section B: Secretary 
-
-One member to two co-members from the club will hold this position with the option of having an standby/ substitute. It shall be the duty of the Secretary(ies) to:
-
-- Record the minutes of all meetings
-- Keep a file of the club's records
-- Maintain a current roster of membership
-- Issue notices of meetings and conduct the general correspondence of the club
-- Be in charge of overall organization: emails, filing, keeping track of member attendance
-- Must attend all meetings (or have a standby/substitute)
-- Perform such other duties as ordinarily pertain to this office
-
-### Section C: Treasurer 
-
-One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Treasurer(s) to:
+### Section B: Financial Committee
+The Financial Committee shall be headed by the Chief Financial Officer and shall be responsible for the following: 
 
 - Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
 - Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
-- Must attend all meetings (or have a standby/substitute)
-- Perform such other duties as ordinarily pertain to this office
+- Apply for line-item and ad-hoc funding from the Graduate School
+- Apply for external funding via grant proposals
+- Maintain Summit account.
+- Conduct all other aspects of the organization's finances.
+
+### Section C: Communications Committee
+The Communications Committee shall be headed by the Chief Communications Officer and shall be responsible for the following: 
+
+- Sending official emails to the GRiD membership
+- Advertising GRiD events
+- Dispatching and/or responding to emails to the official GRiD inbox and passed from the Co-Chairs
+- Maintaining official social media accounts
+- Working with the other committees to facilitate communication within and outside of the organization.
+
+### Section D: Technical Committee
+The Technical Committee shall be headed by the Chief Technical Officer and shall be responsible for the following: 
+
+- Maintaining the official organization website, including all domain names and server logistics.
+- Administering the official GitHub profile, pages and repositories, including granting access to collaborators and granting pull requests
+- Seeing to the technical logistics of technical projects, such as hackathons, kaggle competitions and the like.
+- Administering all other technological aspects of group functions.
+
+### Section E: Outreach Committee
+The Outreach Committee shall be headed by the Chief Outreach Officer and shall be responsible for the following: 
+
+- Maintaining relationships with alums of the organization
+- Forming and maintaining professional relationships with external entities with an interest in data science, including firms, professional organizations, and academic entities at other institutions. 
+- Coordinating with the Financial Committee to obtain sponsorships from external entities.
+- Coordinating with the Programming Committee to plan and execute professional development events
+
+### Section F: Networking Committee
+The Networking Committee shall be headed by the Chief Networking Officer and shall be responsible for the following: 
+
+- Advertising GRiD membership to eligible parties on campus
+- Forming and maintaining relationships with other graduate student organizations
+- Forming and maintaining relationships with faculty members whose teaching and/or research interests involve data science and statistics.
+- Coordinating with the Programming Committee to plan and execute networking events
+- Maintaining a list of data science other events on campus and in the region that may be of interest to GRiD members
 
 ## ARTICLE VII:  ADVISOR
 
 ### Section A: Selection 
 
 There shall be two faculty/staff advisors who shall be selected each year by the membership.
-
-### Section B: Duties 
-
-The responsibilities of the faculty advisors shall be split amongst the advisors.  The responsibilities shall be to:
-
-- Maintain an awareness of the activities and programs sponsored by the student club.
-- Meet on a regular basis with the co-Chairpersons of the student club to discuss upcoming meetings, long range plans, goals, and problems of the club.
-- Attend regular meetings, executive board meetings as often as schedule allows.
-- Assist in the orientation of new officers.
-- Explain and clarify campus policy and procedures that apply to the club.
-- Maintain contact with the Student Life Office.
-- Provide direction in the area of parliamentary procedure, meeting facilitation, group-building, goal setting, and program planning.
-- Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger.
-- Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors.
-
-## ARTICLE VIII:  COMMITTEES
-
-### Section A: Activities Committee 
-
-A committee of multiple members coordinates activities and social events, invites panelists and perform such other duties as ordinarily pertain to this committee.
-
-### Section B: Other committees
-
-- Web Master: One member from the club maintains the club website, works with secretary to have the most up to date info on website, posts each meeting/ maintains calendar.
-- Historian: Keeps a picture book and notes of meetings, members, panelists and events.
-- Publicity Officer: Makes and distributes flyers about speakers/ panelists.
-- Fundraising Director: Sets up fundraisers.
-
-### Section C: Special Committees 
-
-The co-Chairpersons shall have the authority to appoint any special committees, with the approval of the Executive Committee, from time to time as need demands.
 
 ## ARTICLE IX:  AMENDMENTS
 
