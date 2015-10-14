@@ -164,7 +164,7 @@ In addition to graduate student members, Honorary Alums will also be eligible to
 
 Newly elected Executive Board Officers will shadow current members of the board throughout the spring semester. They will be encouraged to attend every Executive Board and appropriate committee meeting in preparation for their future leadership role.
 
-## ARTICLE VII:  ADVISOR
+## ARTICLE VI:  ADVISOR
 
 ### Section A: Selection 
 
@@ -182,7 +182,7 @@ There shall be two faculty/staff advisors who shall be selected each year by the
 - Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger.
 - Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors.
 
-## ARTICLE IX:  AMENDMENTS
+## ARTICLE VII:  AMENDMENTS
 
 ### Section A: Proposing an Amendment
 
