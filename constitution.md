@@ -17,7 +17,8 @@ The purpose of this club shall be:
 1. Connecting graduate research students across all disciplines interested in data for the purpose of extending our knowledge base. 
 2. Explore data sets.
 3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
-4. Social gatherings in an informal setting to exchange ideas. 
+4. Provide resources to prepare members for careers in data science and related fields.
+5. Social gatherings in an informal setting to exchange ideas. 
 
 ## ARTICLE II:  MEMBERSHIP & DUES
 
@@ -69,7 +70,7 @@ The Executive Board consists of the two Co-Chairs of the organization and the ch
 - Co-Chair of Operations
 - Co-Chair of Programming
 - Chief Financial Officer
-- Chief Communications Director
+- Chief Communications Officer
 - Chief Technical Officer
 - Chief Outreach Officer
 - Chief Networking Officer
@@ -154,7 +155,7 @@ The Networking Committee shall be headed by the Chief Networking Officer and sha
 - Maintaining a list of data science other events on campus and in the region that may be of interest to GRiD members
 
 ## ARTICLE V: ELECTIONS AND VOTING
-
+<a name="elections"></a>
 ### Section A: Election 
 
 The Nomination Period for organization elections will commence at the final meeting of the fall semester and conclude at the first meeting of the spring semester. Nominations may be solicited and accepted at either meeting or in the form of email to the board during the winter break. Any member may nominate a member (including him/herself) for any Executive Board Officer position.
