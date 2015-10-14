@@ -163,6 +163,18 @@ The Networking Committee shall be headed by the Chief Networking Officer and sha
 
 There shall be two faculty/staff advisors who shall be selected each year by the membership.
 
+### Section B: Duties
+
+- Maintain an awareness of the activities and programs sponsored by the student club.
+- Meet on a regular basis with the co-Chairpersons of the student club to discuss upcoming meetings, long range plans, goals, and problems of the club.
+- Attend regular meetings, executive board meetings as often as schedule allows.
+- Assist in the orientation of new officers.
+- Explain and clarify campus policy and procedures that apply to the club.
+- Maintain contact with the Student Life Office.
+- Provide direction in the area of parliamentary procedure, meeting facilitation, group-building, goal setting, and program planning.
+- Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger.
+- Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors.
+
 ## ARTICLE IX:  AMENDMENTS
 
 ### Section A: Proposing an Amendment
