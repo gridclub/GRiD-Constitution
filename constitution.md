@@ -47,7 +47,7 @@ There shall be no dues.
 ### Section E: Alums
 An alum is defined as anyone who completes the membership form and declares him/herself an alum. Alums will have their own mailing list and will be invited to all networking and public events. Each alum may keep this status without completing subsequent membership forms until she/he request to be removed from the alums list.
 
-#### Subsection i: Honorary Alumni
+#### Subsection i: Honorary Alums
 Alums who wish to remain active within the group (i.e. attend all meetings and potentially sit on the Executive Board) must complete the membership form for an academic year, declare him/herself an alum, and request Honorary Alum status. The Executive Board will vote on whether to grant Honorary Alum status for each individual who requests it, with a majority vote required for acceptance.
 
 Honorary Alums shall have the following rights:
