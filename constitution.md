@@ -34,7 +34,7 @@ Members shall have the following rights:
 
 - Attendance of all GRiD events
 - Right to vote in officer elections
-- Right to nominate self or other eliigile persons for executive board positions
+- Right to nominate self or other eligible persons for executive board positions
 - Right to serve in on executive board
 - Right to serve on committees
 - Right to vote in general-body referenda
@@ -53,11 +53,11 @@ Alums who wish to remain active within the group (i.e. attend all meetings and p
 Honorary Alums shall have the following rights:
 
 - Attendance of all GRiD events
-- ***Right to nominate self or other eliigile persons for executive board positions***
+- Right to nominate self or other eligible persons for executive board positions
 - Right to serve in on executive board positions in the event that no members are interested in holding the position.
 - Right to serve on committees
-- ***Right to vote in general-body referenda***
-- ***Right to petition for amendments to the GRiD constitution***
+- Right to vote in general-body referenda
+- Right to petition for amendments to the GRiD constitution
 
 ## ARTICLE III:  LEADERSHIP
 
@@ -106,7 +106,7 @@ The programming committee shall be headed by the Co-Chair of Programming and sha
 - Maintaining a calendar of GRiD events
 - Inviting and corresponding with invited speakers
 - Securing venues and dealing with logistics of GRiD events
-- Maintaining a list of attendance for all GRiD events, ***sharing this with the Co-Chair of operations***
+- Maintaining a list of attendance for all GRiD events
 - Coordinating with other committees to plan and execute events in their specific domain.
 - Soliciting feedback from attendees of GRiD events and summarizing this for future programming decisions.
 
@@ -176,7 +176,7 @@ If a vacancy occurs for any Executive Board Officer position in the spring semes
 
 ### Section D: Special Elections
 
-In the case of a vacancy in the board, a Special Election will take place on a date agreed upon by a simple majority of the remaining Executive Board Officers. Members shall be notified at least two weeks in advance of the nominations for the Special Election. Voting shall be open via on-line ballot for the week following the Nomination Period, with candidates assuming their Executive Board positions immediately upon election. 
+In the case of a vacancy in the board, a Special Election will take place on a date agreed upon by a simple majority of the remaining Executive Board Officers. Members shall be notified at least two weeks in advance of the nominations for the Special Election. Voting shall be open via online ballot for the week following the Nomination Period, with candidates assuming their Executive Board positions immediately upon election. 
 
 In addition to graduate student members, Honorary Alums will also be eligible to run for Executive Board Officer positions in a Special Election. Honorary Alums will only be eligible for positions which have no graduate student member nominees.
 
