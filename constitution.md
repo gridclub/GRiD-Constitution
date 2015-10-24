@@ -24,7 +24,7 @@ The purpose of this club shall be:
 
 ### Section A: Eligibility 
 
-Membership shall be open to graduate students at University of Massachusetts Amherst. Membership shall also be open to postdoctoral scholars. 
+Membership shall be open to graduate students and postdoctoral scholars at University of Massachusetts Amherst. 
 
 ### Section B: Member Identity and Rights
 
