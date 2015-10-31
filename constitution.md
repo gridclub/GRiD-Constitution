@@ -87,8 +87,6 @@ The Executive Board will meet as a body at least once per month. Every meeting m
 
 The Co-Chair of Operations is responsible for scheduling, organizing, and running all Executive Board meetings, including taking attendance of present members and appointing an officer to take minutes.
 
-// Can members attend those meetings ??
-
 Section D: Leave of Absence for Executive Board Officers
 
 An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their
@@ -163,13 +161,7 @@ The Nomination Period for organization elections will commence at the final meet
 
 At the first meeting of the spring semester, each candidate will have five minutes to address the general body. At the end of this meeting, the Voting Period will commence. The Voting Period lasts for exactly one week, during which members may cast one vote for each Executive Board Officer position online.
 
-A candidate for a position will win said position if at the end of the Voting Period she/he has the majority of the vote. 
-
-// Next paragraph assumes that you can't have a tie between more than two candidates? 
-In the case of a tie, the two highest candidates will participate in a run-off. If the candidates are tied a second time, they may choose to share the position.
-
-// I propose to change that with : 
-In the case of a tie, the highest candidates will participate in a run-off. If the candidates are tied a second time, they may choose to share the position.
+A candidate for a position will win said position if at the end of the Voting Period she/he has the majority of the vote. In the case of a tie, the highest candidates will participate in a run-off. If the candidates are tied a second time, they may choose to share the position.
 
 ### Section B: Term 
 
