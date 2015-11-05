@@ -87,13 +87,13 @@ The Executive Board will meet as a body at least once per month. Every meeting m
 
 The Co-Chair of Operations is responsible for scheduling, organizing, and running all Executive Board meetings, including taking attendance of present members and appointing an officer to take minutes.
 
-Section D: Leave of Absence for Executive Board Officers
+### Section D: Leave of Absence for Executive Board Officers
 
 An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their
 absence. The officer may appoint an interim replacement or instruct the other members of the Executive Board to do so, if needed. Any extenuating circumstances will be dealt
 with at the discretion of the executive board.
 
-Section E: Impeachment of an Executive Board Member
+### Section E: Impeachment of an Executive Board Member
 
 Impeachment of a board member will require a unanimous vote by the other Executive Board Officers. Examples of reasons for impeachment: gross negligence of duties, misuse of GRiD funds.
 
