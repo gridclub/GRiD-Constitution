@@ -32,10 +32,10 @@ A member is defined as anyone who completes the membership form corresponding to
 
 Members shall have the following rights:
 
-- Attendance of all GRiD events
+- Right to attend all GRiD events
 - Right to vote in officer elections
 - Right to nominate self or other eligible persons for executive board positions
-- Right to serve in on executive board
+- Right to serve on executive board
 - Right to serve on committees
 - Right to vote in general-body referenda
 - Right to petition for amendments to the GRiD constitution
@@ -52,9 +52,9 @@ Alums who wish to remain active within the group (i.e. attend all meetings and p
 
 Honorary Alums shall have the following rights:
 
-- Attendance of all GRiD events
+- Right to attend all GRiD events
 - Right to nominate self or other eligible persons for executive board positions
-- Right to serve in on executive board positions in the event that no members are interested in holding the position.
+- Right to serve on executive board positions in the event that no members are interested in holding the position.
 - Right to serve on committees
 - Right to vote in general-body referenda
 - Right to petition for amendments to the GRiD constitution
@@ -75,7 +75,7 @@ The Executive Board consists of the two Co-Chairs of the organization and the Ch
 - Chief Outreach Officer
 - Chief Networking Officer
 
-No member of the Executive Board may hold multiple positions. In the event that a position is unable to be filled, the responsibilities for that position will be distributed across the members of the Executive Board by the Co-Chairs.
+No member of the Executive Board may hold multiple Executive Board positions. In the event that a position is unable to be filled, the Co-Chairs shall distribute the responsibilities for that position across the members of the Executive Board.
 
 ### Section B: Eligibility
 
@@ -89,9 +89,7 @@ The Co-Chair of Operations is responsible for scheduling, organizing, and runnin
 
 ### Section D: Leave of Absence for Executive Board Officers
 
-An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their
-absence. The officer may appoint an interim replacement or instruct the other members of the Executive Board to do so, if needed. Any extenuating circumstances will be dealt
-with at the discretion of the executive board.
+An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their absence. The officer may appoint an interim replacement or instruct the other members of the Executive Board to do so, if needed. Any extenuating circumstances will be dealt with at the discretion of the executive board.
 
 ### Section E: Impeachment of an Executive Board Member
 
@@ -192,7 +190,7 @@ There shall be two faculty/staff advisors who shall be selected each year by the
 ### Section B: Duties
 
 - Maintain an awareness of the activities and programs sponsored by the student club.
-- Meet on a regular basis with the co-Chairpersons of the student club to discuss upcoming meetings, long range plans, goals, and problems of the club.
+- Meet on a regular basis with the Co-Chairs to discuss upcoming meetings, long range plans, goals, and problems of the club.
 - Attend regular meetings, executive board meetings as often as schedule allows.
 - Assist in the orientation of new officers.
 - Explain and clarify campus policy and procedures that apply to the club.
