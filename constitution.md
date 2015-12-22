@@ -16,154 +16,224 @@ The purpose of this club shall be:
 
 1. Connecting graduate research students across all disciplines interested in data for the purpose of extending our knowledge base. 
 2. Explore data sets.
-3. Have professional speakers across different fields come for presentation of new areas of knowledge. 
-4. Social gatherings in an informal setting to exchange ideas. 
+3. Invite professional speakers across different fields to present new areas of knowledge. 
+4. Provide resources to prepare Members for careers in data science and related fields.
+5. Host social gatherings in an informal setting to exchange ideas. 
+
+<a name="membership"></a>
 
 ## ARTICLE II:  MEMBERSHIP & DUES
 
 ### Section A: Eligibility 
 
-Membership shall be open to graduate students at University of Massachusetts Amherst to include Masters, Doctoral and post-Doctoral students. 
+Membership shall be open to graduate students and postdoctoral scholars at University of Massachusetts Amherst. 
 
-### Section B: Member Identity
+### Section B: Member Identity and Rights
 
-A member is defined as anyone who completes the membership form for an academic year. Member identity will not be released without permission.
+A Member is defined as anyone who completes the Membership form corresponding to the particular academic year. Member identity will not be released without written permission by said Member.
+
+Members shall have the following rights:
+
+- Right to attend all GRiD events
+- Right to nominate self or other eligible persons for [Executive Board](#executive-board) positions
+- Right to vote in Executive Board Officer [Elections](#elections)
+- Right to serve on the Executive Board
+- Right to serve on [Committees](#committees)
+- Right to vote in general-body referenda
+- Right to petition for [Amendments](#amendments) to the GRiD constitution
 
 ### Section C: Dues 
 
-There shall be no dues. 
+There shall be no dues.
 
-## ARTICLE III:  OFFICERS
+<a name="alums"></a>
 
-### Section A: Officers 
+### Section E: Alums
+An Alum is defined as anyone who completes the Membership form and declares themself an Alum. Alums will have their own mailing list and will be invited to all networking and public events. Each Alum may keep this status without completing subsequent Membership forms until they request to be removed from the Alums list.
 
-The officers shall be two Chairpersons, Secretary(ies), and Treasurer(s). 
+<a name="honorary-alums"></a>
 
-### Section B: Eligibility 
+#### Subsection i: Honorary Alums
+Alums who wish to remain active within the group (i.e. attend all meetings and potentially sit on the [Executive Board](#executive-board)) must complete the Membership form for an academic year, declare themself an Alum, and request Honorary Alum status. The Executive Board will vote on whether to grant Honorary Alum status for each individual who requests it, with a majority vote required for acceptance.
 
-Officers must be full-time students. 
+Honorary Alums shall have the following rights:
 
-### Section C: Election 
+- Right to attend all GRiD events
+- Right to nominate self or other eligible persons for Executive Board positions
+- Right to serve on Executive Board positions in the event that no Members are interested in holding the position.
+- Right to serve on committees
+- Right to vote in general-body referenda
+- Right to petition for [Amendments](#amendments) to the GRiD constitution
 
-The officers shall be elected by electronic ballot at the last meeting of the spring semester by a majority of the vote cast for that office and special elections in the case of a graduating officer. 
+<a name="executive-board"></a>
 
-### Section D: Term 
+## ARTICLE III:  LEADERSHIP
 
-The officers shall serve for one year and their term of office shall begin at the commencement of the fall semester unless by special election. 
+### Section A: Executive Board Officers 
 
-### Section E: Vacancy 
+Management of this club shall be vested in an Executive Board responsible to the entire Membership to uphold these bylaws.
 
-If a vacancy occurs in the office of Chairperson, the other Chairperson shall assume the office for the remainder of the term and vacancies in any other office shall be filled by a special election.
+The Executive Board consists of the two Co-Chairs of the organization and the Chief of each committee. The positions on the Executive Board are as follows:
 
-## ARTICLE IV:  DUTIES OF OFFICERS
+- Co-Chair of Operations
+- Co-Chair of Programming
+- Chief Financial Officer
+- Chief Communications Officer
+- Chief Technical Officer
+- Chief Outreach Officer
+- Chief Networking Officer
 
-### Section A: Co-Chairpersons 
+No Executive Board Officer may hold multiple Executive Board positions. In the event that a position is unable to be filled, the Co-Chairs shall distribute the responsibilities for that position across the existing Executive Board Officers.
 
-Two members from the club will split these responsibilities amongst themselves.  It shall be the duty of the Co-Chairpersons to:
+### Section B: Eligibility
 
-- Preside at meetings
-- Vote only in case of a tie
-- Represent the club
-- Appoint committee chairpersons subject to the approval of the Executive Committee
-- Serve as an ex-officio member of all committees except the nominating committee
-- Perform such other duties as ordinarily pertain to this office
+The Executive Board Officers will be determined by [Elections](#elections).
 
-### Section B: Secretary 
+### Section C: Duties of the Executive Board
 
-One member to two co-members from the club will hold this position with the option of having an standby/ substitute. It shall be the duty of the Secretary(ies) to:
+The Executive Board will meet as a body at least once per month. Every meeting must be attended by a majority of the Executive Board Officers, including at least half of the Co-Chairs and Chief Financial Officers. The Executive Committee will be responsible for making decisions for the organization by holding a vote, with the majority winning (except for impeachment votes). Executive Board Officers are expected to attend all programming events.
 
-- Record the minutes of all meetings
-- Keep a file of the club’s records
-- Maintain a current roster of membership
-- Issue notices of meetings and conduct the general correspondence of the club
-- Be in charge of overall organization: emails, filing, keeping track of member attendance
-- Must attend all meetings (or have a standby/substitute)
-- Perform such other duties as ordinarily pertain to this office
+The Co-Chair of Operations is responsible for scheduling, organizing, and running all Executive Board meetings, including taking attendance of present Officers and appointing an Officer to take minutes.
 
-### Section C: Treasurer 
+### Section D: Leave of Absence for Executive Board Officers
 
-One member to two co-members from the club will hold this position with the option of having an standby/ substitute.  It shall be the duty of the Treasurer(s) to:
+An Executive Board Officer may take a leave of absence during their term. The officer will be responsible for ensuring their duties are carried out in their absence. The officer may appoint an interim replacement or instruct the other Executive Board Officers to do so, if needed. Any extenuating circumstances will be dealt with at the discretion of the Executive Board.
+
+### Section E: Impeachment of an Executive Board Officer
+
+Impeachment of an Executive Board Officer will require a unanimous vote by the other Executive Board Officers. Examples of reasons for impeachment: gross negligence of duties, misuse of GRiD funds.
+
+<a name="committees"></a>
+
+## ARTICLE IV: COMMITTEES
+
+### Section A: Programming Committee
+The programming committee shall be headed by the Co-Chair of Programming and shall be responsible for the following:
+
+- Maintaining a calendar of GRiD events.
+- Inviting and corresponding with invited speakers.
+- Securing venues and dealing with logistics of GRiD events.
+- Maintaining a list of attendance for all GRiD events.
+- Coordinating with other committees to plan and execute events in their specific domain.
+- Soliciting feedback from attendees of GRiD events and summarizing this for future programming decisions.
+
+### Section B: Financial Committee
+The Financial Committee shall be headed by the Chief Financial Officer and shall be responsible for the following: 
 
 - Receive all funds and process Request for Payment, Deposit Slip, and Officer Signature Forms.
-- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting
-- Must attend all meetings (or have a standby/substitute)
-- Perform such other duties as ordinarily pertain to this office
+- Keep an itemized account of all receipts and expenditures and make reports as directed at each business meeting.
+- Apply for line-item and ad-hoc funding from the Graduate School.
+- Apply for external funding via grant proposals.
+- Maintain Summit account.
+- Conduct all other aspects of the organization's finances.
 
-## ARTICLE V:  MEETINGS
+### Section C: Communications Committee
+The Communications Committee shall be headed by the Chief Communications Officer and shall be responsible for the following: 
 
-### Section A: Meetings 
+- Sending official emails to the GRiD Membership.
+- Advertising GRiD events.
+- Dispatching and/or responding to emails to the official GRiD inbox and passed from the Co-Chairs.
+- Maintaining official social media accounts.
+- Working with the other committees to facilitate communication within and outside of the organization.
 
-Regular meetings shall be held monthly during the regular school year. In addition meetings to pick dataset, listen to invited panelists, and social events. 
+### Section D: Technical Committee
+The Technical Committee shall be headed by the Chief Technical Officer and shall be responsible for the following:
 
-### Section B: Special Meeting 
+- Maintaining the official organization website, including all domain names and server logistics.
+- Administering the official GitHub profile, pages and repositories, including granting access to collaborators and granting pull requests.
+- Seeing to the technical logistics of technical projects, such as hackathons, kaggle competitions and the like.
+- Administering all other technological aspects of group functions.
 
-Special meetings may be called by the President with the approval of the Executive Committee. 
+### Section E: Outreach Committee
+The Outreach Committee shall be headed by the Chief Outreach Officer and shall be responsible for the following: 
 
-### Section C: Quorum 
+- Maintaining relationships with [Alums](#alums) of the organization
+- Forming and maintaining professional relationships with external entities with an interest in data science, including firms, professional organizations, and academic entities at other institutions. 
+- Coordinating with the Financial Committee to obtain sponsorships from external entities.
+- Coordinating with the Programming Committee to plan and execute professional development events.
 
+<<<<<<< HEAD
 A quorum shall consist of one-thirds (1/3) of the membership. 
 
 ### Section D: Parliamentary Authority 
 
 Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+=======
+### Section F: Networking Committee
+The Networking Committee shall be headed by the Chief Networking Officer and shall be responsible for the following: 
+>>>>>>> test
 
-## ARTICLE VI:  EXECUTIVE COMMITTEE
+- Advertising GRiD Membership to eligible parties on campus.
+- Forming and maintaining relationships with other graduate student organizations.
+- Forming and maintaining relationships with faculty whose teaching and/or research interests involve data science and statistics.
+- Coordinating with the Programming Committee to plan and execute networking events.
+- Maintaining a list of other data science events on campus and in the region that may be of interest to GRiD Members.
 
-### Section A: Responsibility 
+<a name="elections"></a>
 
-Management of this club shall be vested in an Executive Committee responsible to the entire membership to uphold these bylaws.
+## ARTICLE V: ELECTIONS AND VOTING
 
-### Section B: Membership 
+### Section A: Election 
 
-This committee shall consist of the officers as listed in Article III and the faculty advisors.
+The Nomination Period for Executive Board Officer Elections will commence at the final meeting of the fall semester and conclude at the first meeting of the spring semester. Nominations may be solicited and accepted at either meeting or in the form of email to the board during the winter break. Any [Member](#membership) may nominate any other Member (including themself) for any [Executive Board Officer](#executive-board) position.
 
-### Section C: Meetings 
+At the first meeting of the spring semester, each candidate will have five minutes to address the general body. At the end of this meeting, the Voting Period will commence. The Voting Period lasts for exactly one week, during which Members may cast one vote for each Executive Board Officer position online.
 
-This committee shall meet at least once between regular meetings of the club to organize and plan future activities.
+A candidate for a position will win said position if at the end of the Voting Period they have the majority of the vote. In the case of a tie, the highest candidates will participate in a run-off. If the candidates are tied a second time, they may choose to share the position. The winning candidates will become Officers-Elect for the duration of time between the Election and the start of their term.
 
-## ARTICLE VII:  ADVISOR
+### Section B: Term 
+
+Executive Board Officers shall serve for one year and their term of office shall begin at the commencement of the summer semester unless by [Special Election](#special-elections). 
+
+### Section C: Vacancy 
+
+If a vacancy occurs for any Executive Board Officer position in the summer, fall, or winter semesters, the position shall be filled by Special Election.
+
+If a vacancy occurs for any Executive Board Officer position in the spring semester, the position shall be filled by the Officer-Elect. If no officer was elected for that position, the position may be filled by Special Election.
+
+<a name="special-elections"></a>
+
+### Section D: Special Elections
+
+In the case of a vacancy in the board, a Special Election will take place on a date agreed upon by a simple majority of the remaining [Executive Board Officers](#executive-board). [Members](#membership) shall be notified at least two weeks in advance of the nominations for the Special Election. Voting shall be open via online ballot for the week following the Nomination Period, with candidates assuming their Executive Board positions immediately upon election. 
+
+In addition to Graduate Student Members, [Honorary Alums](#honorary-alums) will also be eligible to run for Executive Board Officer positions in a Special Election. Honorary Alums will only be eligible for positions which have no Graduate Student Member nominees.
+
+### Section E: Shadow Period
+
+Officers-Elect will shadow Executive Board Officers throughout the spring semester. They will be encouraged to attend every Executive Board and appropriate committee meeting in preparation for their future leadership role.
+
+## ARTICLE VI:  ADVISOR
 
 ### Section A: Selection 
 
-There shall be two faculty/staff advisors who shall be selected each year by the membership.
+There shall be two faculty/staff advisors who shall be selected each year by the [Membership](#membership).
 
-### Section B: Duties 
-
-The responsibilities of the faculty advisors shall be split amongst the advisors.  The responsibilities shall be to:
+### Section B: Duties
 
 - Maintain an awareness of the activities and programs sponsored by the student club.
-- Meet on a regular basis with the co-Chairpersons of the student club to discuss upcoming meetings, long range plans, goals, and problems of the club.
-- Attend regular meetings, executive board meetings as often as schedule allows.
+- Meet on a regular basis with the Co-Chairs to discuss upcoming meetings, long range plans, goals, and problems of the club.
+- Attend regular meetings, [Executive Board](#executive-board) meetings as often as schedule allows.
 - Assist in the orientation of new officers.
 - Explain and clarify campus policy and procedures that apply to the club.
 - Maintain contact with the Student Life Office.
 - Provide direction in the area of parliamentary procedure, meeting facilitation, group-building, goal setting, and program planning.
 - Assist the club treasurer in monitoring expenditures, fundraising activities, and corporate sponsorship to maintain an accurate and up-to-date account ledger.
-- Inform club members of those factors that constitute unacceptable behavior on the part of the club members, and the possible consequence of said behaviors.
+- Inform club Members of those factors that constitute unacceptable behavior on the part of the club Members, and the possible consequence of said behaviors.
 
-## ARTICLE VIII:  COMMITTEES
+<a name="amendments"></a>
 
-### Section A: Activities Committee 
+## ARTICLE VII:  AMENDMENTS
 
-A committee of multiple members coordinates activities and social events, invites panelists and perform such other duties as ordinarily pertain to this committee.
+### Section A: Proposing an Amendment
 
-### Section B: Other committees
+Any [Member](#membership) may propose an Amendment to the constitution by obtaining signatures of support from at least 10% of the Membership (total Membership number shall be posted on the UMass GRiD website).
 
-- Web Master: One member from the club maintains the club website, works with secretary to have the most up to date info on website, posts each meeting/ maintains calendar.
-- Historian: Keeps a picture book and notes of meetings, members, panelists and events.
-- Publicity Officer: Makes and distributes flyers about speakers/ panelists.
-- Fundraising Director: Sets up fundraisers.
+### Section B: Voting on an Amendment
 
-### Section C: Special Committees 
+If 10% of signatures are obtained, constitutional Amendments shall be brought to the attention of the entire GRiD Membership, but shall be voted on by the [Executive Board](#executive-board) with majority deciding the outcome.
 
-The co-Chairpersons shall have the authority to appoint any special committees, with the approval of the Executive Committee, from time to time as need demands.
+### Section C: Overturning an Executive Board Decision
 
-## ARTICLE IX:  AMENDMENTS
+Any Member, after obtaining the signatures of at least 10% of the Membership, may petition any decision or ruling of the Executive Board (pertaining to a constitutional Amendment or otherwise) so that the decision is brought to the general body Membership for a vote. For a decision to be overturned, at least 51% of the Membership must participate in the vote for it to count, and majority will win.
 
-### Section A: Selection 
-
-These bylaws may be amended by a two-thirds (2/3) majority vote of quorum as stated in Article V Section C.
-
-### Section B: Notice 
-
-All members shall receive advance notice of the proposed amendment at least five days before the meeting.
