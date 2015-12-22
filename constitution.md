@@ -103,6 +103,10 @@ An Executive Board Officer may take a leave of absence during their term. The of
 
 Impeachment of an Executive Board Officer will require a unanimous vote by the other Executive Board Officers. Examples of reasons for impeachment: gross negligence of duties, misuse of GRiD funds.
 
+### Section F: Parliamentary Authority
+
+Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
+
 <a name="committees"></a>
 
 ## ARTICLE IV: COMMITTEES
@@ -152,13 +156,6 @@ The Outreach Committee shall be headed by the Chief Outreach Officer and shall b
 - Coordinating with the Financial Committee to obtain sponsorships from external entities.
 - Coordinating with the Programming Committee to plan and execute professional development events.
 
-<<<<<<< HEAD
-A quorum shall consist of one-thirds (1/3) of the membership. 
-
-### Section D: Parliamentary Authority 
-
-Robert’s Rules of Orders, shall govern this club in all cases to which they are applicable and in which they are not inconsistent with these bylaws.
-=======
 ### Section F: Networking Committee
 The Networking Committee shall be headed by the Chief Networking Officer and shall be responsible for the following: 
 >>>>>>> test
