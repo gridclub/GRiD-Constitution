@@ -158,7 +158,6 @@ The Outreach Committee shall be headed by the Chief Outreach Officer and shall b
 
 ### Section F: Networking Committee
 The Networking Committee shall be headed by the Chief Networking Officer and shall be responsible for the following: 
->>>>>>> test
 
 - Advertising GRiD Membership to eligible parties on campus.
 - Forming and maintaining relationships with other graduate student organizations.
